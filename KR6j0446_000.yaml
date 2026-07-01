@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0446/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曼殊室利焰曼德迦萬愛祕術如意法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1219.xml
+    old_id: T21n1219
+hash: sha256:0021aef00c43812271fdb94e9d85f4c4e594aee5a89a66f131a16a5bc92cf3fc

@@ -1,0 +1,41 @@
+canonical_identifier: bkk:krp/KR6j0446/v1
+canonical_location: https://kanripo.org/bkk/KR6j0446/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 曼殊室利焰曼德迦萬愛祕術如意法
+  identifiers:
+    alt_id:
+    - T21n1219
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1219.xml
+    old_id: T21n1219
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0446_000.yaml, hash: 'sha256:0021aef00c43812271fdb94e9d85f4c4e594aee5a89a66f131a16a5bc92cf3fc'}
+  - {seq: 1, filename: KR6j0446_001.yaml, hash: 'sha256:a020a43738df711eee696b2a14d754c72e3b2d50c47cd75a6e3bdf004e3ed619'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0446_001.markers.yaml, hash: 'sha256:c0b75e5bda8c5c3443444f9a5efe0819a3a1915939b7c2018be54e564465585a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0446_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 503
+  label: '曼殊室利焰曼德迦萬愛祕術如
+
+    意法'
+  type: juan
+  level: 1
+hash: sha256:b225645161123506201be8f69a42616217a9871de928d8c9bb9b55e237dc73d3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T
